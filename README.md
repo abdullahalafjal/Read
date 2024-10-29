@@ -1,2 +1,1 @@
-# Read
 Software project III
